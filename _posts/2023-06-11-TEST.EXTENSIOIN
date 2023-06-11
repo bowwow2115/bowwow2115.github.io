@@ -1,0 +1,13 @@
+---
+title: TEST
+date: +09:00
+categories: [TEST, TEST_SUB]
+tags: [test]     # TAG names should always be lowercase
+---
+
+# WELCOME
+
+**Hello world**, this is my first Jekyll blog post.
+
+`inline code part`
+
